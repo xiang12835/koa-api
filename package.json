@@ -1,0 +1,18 @@
+{
+    "name": "mini-koa",
+    "version": "0.0.1",
+    "description": "mini koa framework",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon"
+    },
+    "author": "mon",
+    "license": "ISC",
+    "dependencies": {
+        "@koa/cors": "^2.2.3",
+        "koa": "^2.11.0",
+        "koa-logger": "^3.2.1",
+        "koa-router": "^8.0.8",
+        "nodemon": "^2.0.2"
+    }
+}
