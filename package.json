@@ -9,7 +9,7 @@
     "author": "mon",
     "license": "ISC",
     "dependencies": {
-        "@koa/cors": "^2.2.3",
+        "@koa/cors": "^5.0.0",
         "koa": "^2.11.0",
         "koa-logger": "^3.2.1",
         "koa-router": "^8.0.8",
